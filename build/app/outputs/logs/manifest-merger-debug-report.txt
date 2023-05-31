@@ -19,7 +19,6 @@ INJECTED from D:\leaf_disease_detection\android\app\src\main\AndroidManifest.xml
 INJECTED from D:\leaf_disease_detection\android\app\src\main\AndroidManifest.xml:1:1-34:12
 INJECTED from D:\leaf_disease_detection\android\app\src\main\AndroidManifest.xml:1:1-34:12
 MERGED from D:\leaf_disease_detection\android\app\src\main\AndroidManifest.xml:1:1-34:12
-MERGED from [:shared_preferences_android] D:\leaf_disease_detection\build\shared_preferences_android\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
 MERGED from [:camera_android] D:\leaf_disease_detection\build\camera_android\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-12:12
 MERGED from [:image_picker_android] D:\leaf_disease_detection\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-21:12
 MERGED from [:flutter_plugin_android_lifecycle] D:\leaf_disease_detection\build\flutter_plugin_android_lifecycle\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
@@ -65,8 +64,6 @@ uses-sdk
 INJECTED from D:\leaf_disease_detection\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from D:\leaf_disease_detection\android\app\src\main\AndroidManifest.xml
 INJECTED from D:\leaf_disease_detection\android\app\src\main\AndroidManifest.xml
-MERGED from [:shared_preferences_android] D:\leaf_disease_detection\build\shared_preferences_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
-MERGED from [:shared_preferences_android] D:\leaf_disease_detection\build\shared_preferences_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
 MERGED from [:camera_android] D:\leaf_disease_detection\build\camera_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
 MERGED from [:camera_android] D:\leaf_disease_detection\build\camera_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
 MERGED from [:image_picker_android] D:\leaf_disease_detection\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41

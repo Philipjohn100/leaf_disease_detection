@@ -3,12 +3,13 @@ import 'package:camera/camera.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_onboarding/constants.dart';
 import 'package:flutter_onboarding/models/plants.dart';
-import 'package:flutter_onboarding/ui/screens/chatbot.dart';
+import 'package:flutter_onboarding/ui/screens/chat_body.dart';
 import 'package:flutter_onboarding/ui/screens/tools.dart';
 import 'package:flutter_onboarding/ui/screens/home_page.dart';
 import 'package:flutter_onboarding/ui/screens/profile_page.dart';
 
 import 'CameraPage.dart';
+import 'package:flutter/material.dart';
 
 class RootPage extends StatefulWidget {
   const RootPage({Key? key}) : super(key: key);
@@ -30,7 +31,7 @@ class _RootPageState extends State<RootPage> {
       FavoritePage(
         favoritedPlants: favorites,
       ),
-      const Chatbot(),
+      const ChatPage(),
     ];
   }
 
