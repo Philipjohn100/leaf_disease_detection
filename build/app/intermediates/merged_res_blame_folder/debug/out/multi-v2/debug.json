@@ -1144,6 +1144,25 @@
             "outputFile": "com.example.flutter_onboarding.app-merged_res-18:/values_values.arsc.flat",
             "map": [
                 {
+                    "source": "D:\\leaf_disease_detection\\android\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "3,14",
+                        "startColumns": "4,4",
+                        "startOffsets": "176,821",
+                        "endLines": "7,16",
+                        "endColumns": "12,12",
+                        "endOffsets": "472,987"
+                    },
+                    "to": {
+                        "startLines": "97,101",
+                        "startColumns": "4,4",
+                        "startOffsets": "5669,5850",
+                        "endLines": "100,103",
+                        "endColumns": "12,12",
+                        "endOffsets": "5845,6014"
+                    }
+                },
+                {
                     "source": "C:\\Users\\philip\\.gradle\\caches\\transforms-3\\dd6cdc707004163dc3257bbdbe80b314\\transformed\\lifecycle-runtime-2.5.1\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2",
@@ -1158,25 +1177,6 @@
                         "startOffsets": "5321",
                         "endColumns": "42",
                         "endOffsets": "5359"
-                    }
-                },
-                {
-                    "source": "D:\\flutter-ui-plant-app-main\\android\\app\\src\\main\\res\\values\\styles.xml",
-                    "from": {
-                        "startLines": "3,14",
-                        "startColumns": "4,4",
-                        "startOffsets": "173,807",
-                        "endLines": "7,16",
-                        "endColumns": "12,12",
-                        "endOffsets": "465,971"
-                    },
-                    "to": {
-                        "startLines": "97,101",
-                        "startColumns": "4,4",
-                        "startOffsets": "5669,5850",
-                        "endLines": "100,103",
-                        "endColumns": "12,12",
-                        "endOffsets": "5845,6014"
                     }
                 },
                 {
@@ -1319,14 +1319,14 @@
             "outputFile": "com.example.flutter_onboarding.app-merged_res-18:/values-night-v8_values-night-v8.arsc.flat",
             "map": [
                 {
-                    "source": "D:\\flutter-ui-plant-app-main\\android\\app\\src\\main\\res\\values-night\\styles.xml",
+                    "source": "D:\\leaf_disease_detection\\android\\app\\src\\main\\res\\values-night\\styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",
-                        "startOffsets": "172,806",
+                        "startOffsets": "175,820",
                         "endLines": "7,16",
                         "endColumns": "12,12",
-                        "endOffsets": "464,970"
+                        "endOffsets": "471,986"
                     },
                     "to": {
                         "startLines": "2,6",

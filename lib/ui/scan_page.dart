@@ -1,7 +1,5 @@
-import 'package:camera/camera.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_onboarding/constants.dart';
-import 'dart:io';
 
 class ScanPage extends StatefulWidget {
   const ScanPage({Key? key}) : super(key: key);

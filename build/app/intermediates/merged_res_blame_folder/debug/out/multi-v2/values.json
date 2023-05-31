@@ -4,6 +4,25 @@
             "outputFile": "com.example.flutter_onboarding.app-mergeDebugResources-16:/values/values.xml",
             "map": [
                 {
+                    "source": "D:\\leaf_disease_detection\\android\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "3,14",
+                        "startColumns": "4,4",
+                        "startOffsets": "176,821",
+                        "endLines": "7,16",
+                        "endColumns": "12,12",
+                        "endOffsets": "472,987"
+                    },
+                    "to": {
+                        "startLines": "97,101",
+                        "startColumns": "4,4",
+                        "startOffsets": "5669,5850",
+                        "endLines": "100,103",
+                        "endColumns": "12,12",
+                        "endOffsets": "5845,6014"
+                    }
+                },
+                {
                     "source": "C:\\Users\\philip\\.gradle\\caches\\transforms-3\\dd6cdc707004163dc3257bbdbe80b314\\transformed\\lifecycle-runtime-2.5.1\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2",
@@ -18,25 +37,6 @@
                         "startOffsets": "5321",
                         "endColumns": "42",
                         "endOffsets": "5359"
-                    }
-                },
-                {
-                    "source": "D:\\flutter-ui-plant-app-main\\android\\app\\src\\main\\res\\values\\styles.xml",
-                    "from": {
-                        "startLines": "3,14",
-                        "startColumns": "4,4",
-                        "startOffsets": "173,807",
-                        "endLines": "7,16",
-                        "endColumns": "12,12",
-                        "endOffsets": "465,971"
-                    },
-                    "to": {
-                        "startLines": "97,101",
-                        "startColumns": "4,4",
-                        "startOffsets": "5669,5850",
-                        "endLines": "100,103",
-                        "endColumns": "12,12",
-                        "endOffsets": "5845,6014"
                     }
                 },
                 {

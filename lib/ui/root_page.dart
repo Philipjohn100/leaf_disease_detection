@@ -3,12 +3,10 @@ import 'package:camera/camera.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_onboarding/constants.dart';
 import 'package:flutter_onboarding/models/plants.dart';
-import 'package:flutter_onboarding/ui/scan_page.dart';
 import 'package:flutter_onboarding/ui/screens/chatbot.dart';
 import 'package:flutter_onboarding/ui/screens/tools.dart';
 import 'package:flutter_onboarding/ui/screens/home_page.dart';
 import 'package:flutter_onboarding/ui/screens/profile_page.dart';
-import 'package:page_transition/page_transition.dart';
 
 import 'CameraPage.dart';
 
